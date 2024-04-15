@@ -92,3 +92,12 @@ p{
 .bm1:hover{
     opacity: 1;
 }
+.new{
+    background-image: url("./ParallaxTask/the-batman-hot-wheels-rc-batmobile_100811624_h.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+    
+
+}
